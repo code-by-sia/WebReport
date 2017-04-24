@@ -10,7 +10,7 @@
    <xsl:for-each select="Page">
 	   <page>
 	   	 <div class="ReprotHeader">
-             <img src="static/img/fed-ex.svg" class="logo"/>
+             <img src="static/img/OpenSource.svg" class="logo"/>
 		   	 <h1>CompanyName</h1>
 	 	   	 <span style="float:left;" >Order Report</span>
 		   	 <span style="float:right;" >
