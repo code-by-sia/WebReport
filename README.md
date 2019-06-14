@@ -14,5 +14,5 @@ cd WebReport
 http-server 
 ```
 
-open the [localhost:8080](http://localhost:8080)
+open the [http://localhost:8080/order-report.xml](http://localhost:8080/order-report.xml)
 
