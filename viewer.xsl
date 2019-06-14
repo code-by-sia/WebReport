@@ -4,11 +4,11 @@
 	<html>
 		<head>
 
-			<link rel="stylesheet" href="static/css/bootstrap.min.css" media="screen" type="text/css" />
-			<link rel="stylesheet" href="static/css/report.css" media="all" type="text/css" />
+			<link rel="stylesheet" href="/static/css/bootstrap.min.css" media="screen" type="text/css" />
+			<link rel="stylesheet" href="/static/css/report.css" media="all" type="text/css" />
 
-			<script type="text/javascript" src="static/js/jquery-1.3.2.min.js"></script>
-			<script type="text/javascript" src="static/js/report-app.js"></script>
+			<script type="text/javascript" src="/static/js/jquery-1.3.2.min.js"></script>
+			<script type="text/javascript" src="/static/js/report-app.js"></script>
 			<title>Samal Report  <xsl:value-of select="Report/@reportname" /></title>
 		</head>
 		<body>
