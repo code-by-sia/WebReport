@@ -84,6 +84,6 @@
    </xsl:for-each>
 </xsl:template>
 
-<xsl:include href="/viewer.xsl" />
+<xsl:include href="viewer.xsl" />
     
 </xsl:stylesheet>
